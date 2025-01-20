@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #071d48;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .logo {
+    display: flex;
+    align-items: center;
+}
+
+.navbar img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.navbar .nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 20px;
+    background: url('backgroundd.png') no-repeat center center;
+    background-size: cover;
+    color: white;
+    min-height: calc(100vh - 70px);
+    box-sizing: border-box;
+}
+
+.hero-text {
+    max-width: 50%;
+    text-align: left;
+    margin-left: 75px;
+    position: relative;
+    margin-top: -180px;
+    padding: 20px 40px; /* Menambahkan padding agar area teks lebih luas */
+    border-radius: 500px; /* Membuat tepi lebih melengkung */
+    background-color: rgba(255, 255, 255, 0.7); /* Latar belakang transparan dengan efek soft */
+}
+
+.hero-text h1 {
+    font-size: 70px;
+    margin: 0;
+}
+
+.hero-text p {
+    font-size: 50px;
+    margin: 10px 0 20px;
+}
+
+.hero-text .first-line {
+    font-size: 53px;
+    font-weight: normal;
+    color: #ffffff; /* Sesuaikan warna */
+    margin-bottom: 0px; /* Atur jarak antara SMA Negeri 2 dan Merauke */
+}
+
+.hero-text .second-line {
+    font-size: 55px;
+    font-weight: normal;
+    color: #ffffff; /* Sesuaikan warna */
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.hero-buttons a {
+    background-color: white;
+    color: #233a66;
+    padding: 10px 30px; /* Tambahkan ruang di dalam tombol */
+    border-radius: 150px;
+    text-decoration: none;
+    font-weight: 800; /* Ketebalan teks */
+    font-size: 40px; /* Ukuran teks lebih kecil */
+}
+
+.hero-buttons a:hover {
+    background-color: #e0e0e0;
+}
+
+.hero-image {
+    max-width: 55%; /* Ubah dari 45% menjadi lebih besar */
+    border-radius: 20px;
+    overflow: hidden;
+    margin-left: -50px; /* Sesuaikan jarak dengan teks */
+}
+
+.hero-image img {
+    width: 100%; /* Pastikan ukuran gambar tetap sesuai container */
+    height: auto;
+    border-radius: 20px;
+    padding-right: 0; /* Hilangkan padding jika tidak diperlukan */
+}
+
+.bottom-line {
+    background-color: #0a2a66;
+    height: 10px;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero-text, .hero-image {
+        max-width: 100%;
+    }
+    .hero-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+

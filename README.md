@@ -1,8 +1,7 @@
 # 🏫 Web Sekolah - Project Base
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ongoing%20Development-blueviolet?style=for-the-badge" alt="Development Status" />
-  <img src="https://
+  <i
 
 ##
 

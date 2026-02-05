@@ -3,7 +3,6 @@
 oject
 
 b
-*sain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.
 
 ---
 

@@ -1,8 +1,4 @@
-an bahasa pemrograman yang menjadi tulang punggung dari project ini:
-ge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Basic" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript (Basic)" />
-</div>
+d
 
 ---
 

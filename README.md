@@ -43,8 +43,7 @@ Project ini akan terus dikembangkan dengan fitur-fitur berikut:
 * **Modul Data Guru & Siswa:**
     * **Lihat Data:** Menampilkan daftar guru dan siswa.
     * **Tambah Data:** Formulir untuk input data baru.
-    * **Edit Data:** Fungsionalitas untuk memperbarui informasi.
-    * **Hapus Data:** Kemampuan untuk menghapus entri.
+    ri.
 * **Galeri Kegiatan:** Menampilkan foto-foto kegiatan sekolah.
 * **Formulir Kontak:** Pengunjung dapat menghubungi sekolah melalui form yang terintegrasi.
 * **Responsif Desain:** Memastikan tampilan website optimal di berbagai perangkat (desktop, tablet, mobile).

@@ -12,7 +12,7 @@ Halo, saya **rubuuu**, ersemangat dalam
 
 ## 🎨 Visi & Tujuan Project
 
-b Sekolah" ini adalah:
+b
 *sain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.
 
 ---

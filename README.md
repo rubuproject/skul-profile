@@ -14,7 +14,7 @@ Halo, saya **rubuuu**, ersemangat dalam
 
 b Sekolah" ini adalah:
 * **Menguasai Fundamental Web:** Memahami alur kerja dan interaksi antara *frontend* (HTML, CSS) dan *backend* (PHP).
-* **Praktik Database Dasar:** Belajar bagaimana PHP berinteraksi dengan database (misalnya MySQL) untuk menyimpan dan mengambil data.
+* **a PHP berinteraksi dengan database (misalnya MySQL) untuk menyimpan dan mengambil data.
 * **Membangun Portofolio Awal:** Menunjukkan kemampuan dasar dalam pengembangan web, meskipun masih di semester awal.
 * **Eksplorasi UI/UX:** Menerapkan prinsip desain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.
 

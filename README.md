@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ongoing%20Development-blueviolet?style=for-the-badge" alt="Development Status" />
-  <img src="https://img.shiue?style=for-the-badge" alt="Academic Project" />
-  <img src="https://komareekolah-github&label=Project%20Views&color=0096ff&style=flat" alt="Project Views" />
-</p>
+  <img src="https://
 
 ## 🌟 Selamat Datang di "Web Sekolah" Proj
 

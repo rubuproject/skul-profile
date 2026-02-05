@@ -13,8 +13,7 @@ Halo, saya **rubuuu**, ersemangat dalam
 ## 🎨 Visi & Tujuan Project
 
 b Sekolah" ini adalah:
-* **MenguySQL) untuk menyimpan dan mengambil data.
-* kemampuan dasar dalam pengembangan web, meskipun masih di semester awal.
+* **ipun masih di semester awal.
 * **Eksplorasi UI/UX:** Menerapkan prinsip desain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.
 
 ---

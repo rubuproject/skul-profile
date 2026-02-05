@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Ongoing%20Development-blueviolet?style=for-the-badge" alt="Development Status" />
   <img src="https://
 
-## 🌟 Selamat Datang di "Web Sekolah" Proj
+##
 
 Halo, saya **rubuuu**, ersemangat dalam 
 

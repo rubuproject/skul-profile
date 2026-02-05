@@ -1,14 +1,4 @@
-# 🏫 Web Sekolah - Project Base
-
-oject
-
-b
-
----
-
-## 🚀 Teknologi yang Digunakan
-
-Berikut adalah daftar teknologi dan bahasa pemrograman yang menjadi tulang punggung dari project ini:
+an bahasa pemrograman yang menjadi tulang punggung dari project ini:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

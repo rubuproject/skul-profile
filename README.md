@@ -16,7 +16,7 @@ Project ini dirancang untuk mengimplementasikan dasar-dasar **HTML** untuk struk
 
 ## 🎨 Visi & Tujuan Project
 
-Tujuan utama dari project "Web Sekolah" ini adalah:
+b Sekolah" ini adalah:
 * **Menguasai Fundamental Web:** Memahami alur kerja dan interaksi antara *frontend* (HTML, CSS) dan *backend* (PHP).
 * **Praktik Database Dasar:** Belajar bagaimana PHP berinteraksi dengan database (misalnya MySQL) untuk menyimpan dan mengambil data.
 * **Membangun Portofolio Awal:** Menunjukkan kemampuan dasar dalam pengembangan web, meskipun masih di semester awal.

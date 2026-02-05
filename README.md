@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ongoing%20Development-blueviolet?style=for-the-badge" alt="Development Status" />
   <img src="https://img.shields.io/badge/Academic%20Project-Informatika%20Semester%201-blue?style=for-the-badge" alt="Academic Project" />
-  <img src="https://komarev.com/ghpvc/?username=rubuproject&repo=web-sekolah-github&label=Project%20Views&color=0096ff&style=flat" alt="Project Views" />
+  <img src="https://komareekolah-github&label=Project%20Views&color=0096ff&style=flat" alt="Project Views" />
 </p>
 
 ## 🌟 Selamat Datang di "Web Sekolah" Proj

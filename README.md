@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=rubuproject&repo=web-sekolah-github&label=Project%20Views&color=0096ff&style=flat" alt="Project Views" />
 </p>
 
-## 🌟 Selamat Datang di "Web Sekolah" Project!
+## 🌟 Selamat Datang di "Web Sekolah" Proj
 
 Halo, saya **rubuuu**, seorang mahasiswa Informatika semester pertama yang bersemangat dalam dunia pengembangan web. Repositori ini berisi project "Web Sekolah" yang saya kembangkan sebagai sarana belajar dan eksplorasi di awal perjalanan akademik saya.
 

@@ -39,7 +39,7 @@ Project ini akan terus dikembangkan dengan fitur-fitur berikut:
 
 * **Halaman Beranda Dinamis:** Menampilkan informasi terbaru dan pengumuman penting.
 * **Profil Sekolah Lengkap:** Bagian khusus untuk menampilkan sejarah, visi, misi, dan fasilitas sekolah.
-* **Modul Data Guru & Siswa:**
+* **Modul
     * **Lihat Data:** Menampilkan daftar guru dan siswa.
     * **Tambah Data:** Formulir untuk input data baru.
     ri.

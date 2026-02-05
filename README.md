@@ -1,15 +1,6 @@
 # 🏫 Web Sekolah - Project Base
 
-<p align="center">
-  <i
-
-##
-
-Hal
-
----
-
-## 🎨 Visi & Tujuan Project
+oject
 
 b
 *sain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.

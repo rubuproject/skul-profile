@@ -14,7 +14,7 @@ Halo, saya **rubuuu**, ersemangat dalam
 
 b Sekolah" ini adalah:
 * **MenguySQL) untuk menyimpan dan mengambil data.
-* **Membangun Portofolio Awal:** Menunjukkan kemampuan dasar dalam pengembangan web, meskipun masih di semester awal.
+* kemampuan dasar dalam pengembangan web, meskipun masih di semester awal.
 * **Eksplorasi UI/UX:** Menerapkan prinsip desain sederhana untuk menciptakan antarmuka yang intuitif dan menarik.
 
 ---

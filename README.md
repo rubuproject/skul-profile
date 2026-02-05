@@ -9,8 +9,7 @@
 ## 🌟 Selamat Datang di "Web Sekolah" Proj
 
 Halo, saya **rubuuu**, ersemangat dalam dunia pengembangan web. Repositori ini berisi project "Web Sekolah" yang saya kembangkan sebagai sarana belajar dan eksplora saya.
-
-Project ini dirancang untuk mengimplementasikan dasar-dasar **HTML** untuk struktur, **CSS** untuk presentasi visual, dan **PHP** untuk logika *server-side* yang dinamis. Saya percaya, fondasi yang kuat adalah kunci untuk membangun solusi digital yang inovatif di masa depan.
+HTML** untuk struktur, **CSS** untuk presentasi visual, dan **PHP** untuk logika *server-side* yang dinamis. Saya percaya, fondasi yang kuat adalah kunci untuk membangun solusi digital yang inovatif di masa depan.
 
 ---
 

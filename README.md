@@ -6,7 +6,7 @@
 
 ##
 
-Halo, saya **rubuuu**, ersemangat dalam 
+Hal
 
 ---
 
